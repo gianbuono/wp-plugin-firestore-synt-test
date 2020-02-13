@@ -1,0 +1,7 @@
+{
+    "name": "webuo/fenix-firebase",
+    "require": {
+        "firebase/php-jwt": "^5.0",
+        "guzzlehttp/guzzle": "^6.5"
+    }
+}
